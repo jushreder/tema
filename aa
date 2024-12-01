@@ -1,0 +1,18 @@
+#!/bin/bash
+
+mydir=$(pwd)
+
+echo $mydir
+echo $((2*7))
+
+if pwd 
+then echo "hello world"
+fi
+
+if ls 
+then
+	echo "hello boris"
+else
+	echo "hello doris"
+fi
+# https://habr.com/ru/companies/ruvds/articles/325522/

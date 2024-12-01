@@ -12,3 +12,7 @@ git stash clear : очистить стек изменений.
 
 ssh-keygen -t rsa создание ключа ssh
 
+bash скрипты
+#!/bin/bash
+chmod +x <file>
+
