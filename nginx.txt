@@ -1,0 +1,21 @@
+apt install nginx
+systemctl enable nginx
+
+
+Функция     Команда 
+Запуск      systemctl start nginx
+
+Отключение  systemctl stop nginx
+
+Перезапуск  systemctl restart nginx
+
+Перезагрузка systemctl reload nginx
+
+Проверка состояния службы systemctl status nginx
+
+Тестирование конфигурации nginx -t
+
+
+vim /etc/nginx/nginx.conf
+
+
