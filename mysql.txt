@@ -1,0 +1,2 @@
+apt install mysql-server mysql-client
+mysqladmin password -u root -p
