@@ -18,4 +18,4 @@ systemctl enable nginx
 
 vim /etc/nginx/nginx.conf
 
-
+Полное удаление пакета: apt purge
